@@ -1,0 +1,15 @@
+F:\гоша\IT\sem 2\sem1\bin\Debug\net6.0\sem1.exe
+F:\гоша\IT\sem 2\sem1\bin\Debug\net6.0\sem1.deps.json
+F:\гоша\IT\sem 2\sem1\bin\Debug\net6.0\sem1.runtimeconfig.json
+F:\гоша\IT\sem 2\sem1\bin\Debug\net6.0\sem1.dll
+F:\гоша\IT\sem 2\sem1\bin\Debug\net6.0\sem1.pdb
+F:\гоша\IT\sem 2\sem1\obj\Debug\net6.0\sem1.csproj.AssemblyReference.cache
+F:\гоша\IT\sem 2\sem1\obj\Debug\net6.0\sem1.GeneratedMSBuildEditorConfig.editorconfig
+F:\гоша\IT\sem 2\sem1\obj\Debug\net6.0\sem1.AssemblyInfoInputs.cache
+F:\гоша\IT\sem 2\sem1\obj\Debug\net6.0\sem1.AssemblyInfo.cs
+F:\гоша\IT\sem 2\sem1\obj\Debug\net6.0\sem1.csproj.CoreCompileInputs.cache
+F:\гоша\IT\sem 2\sem1\obj\Debug\net6.0\sem1.dll
+F:\гоша\IT\sem 2\sem1\obj\Debug\net6.0\refint\sem1.dll
+F:\гоша\IT\sem 2\sem1\obj\Debug\net6.0\sem1.pdb
+F:\гоша\IT\sem 2\sem1\obj\Debug\net6.0\sem1.genruntimeconfig.cache
+F:\гоша\IT\sem 2\sem1\obj\Debug\net6.0\ref\sem1.dll
